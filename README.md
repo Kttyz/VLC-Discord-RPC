@@ -1,7 +1,3 @@
-# VLC-Discord-RPC
-A RPC plugin for VLC Media player to discord!
-
-
 # VLC Discord Rich Presence (RPC) 🎵
 
 A lightweight Python script that syncs your **VLC Media Player** activity directly to your **Discord Rich Presence** profile in real-time. It features a system tray icon control menu and handles active playback and idle states seamlessly.
